@@ -5,3 +5,4 @@ git の練習
 ･git commit
 ･git rm
 ･git status
+･git diff
